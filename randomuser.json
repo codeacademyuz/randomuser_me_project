@@ -1,0 +1,66 @@
+{
+    "results": [
+        {
+            "gender": "male",
+            "name": {
+                "title": "Mr",
+                "first": "Damas",
+                "last": "Oliveira"
+            },
+            "location": {
+                "street": {
+                    "number": 6972,
+                    "name": "Rua Vinte E Quatro de Outubro"
+                },
+                "city": "Cotia",
+                "state": "Bahia",
+                "country": "Brazil",
+                "postcode": 32158,
+                "coordinates": {
+                    "latitude": "-78.1478",
+                    "longitude": "-175.9694"
+                },
+                "timezone": {
+                    "offset": "+5:30",
+                    "description": "Bombay, Calcutta, Madras, New Delhi"
+                }
+            },
+            "email": "damas.oliveira@example.com",
+            "login": {
+                "uuid": "4bbbf423-b3dd-409f-b35b-53957fc1b362",
+                "username": "goldenpeacock430",
+                "password": "cheese1",
+                "salt": "RoZ1bL8n",
+                "md5": "b898dc469ce9c650352b8f5d15f66f32",
+                "sha1": "92dbdefaf3433e75821b9153493371d770ded92f",
+                "sha256": "2bbddce0543393e9c2c16d8300047d703cdba17cfae992a3ee30b74d3577a5a4"
+            },
+            "dob": {
+                "date": "1958-06-23T03:40:17.665Z",
+                "age": 64
+            },
+            "registered": {
+                "date": "2014-08-30T05:19:44.274Z",
+                "age": 8
+            },
+            "phone": "(49) 7072-4143",
+            "cell": "(97) 9244-6490",
+            "id": {
+                "name": "CPF",
+                "value": "398.279.379-95"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/37.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/37.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/37.jpg"
+            },
+            "nat": "BR"
+        }
+    ],
+    "info": {
+        "seed": "6786def1f7fa0850",
+        "results": 1,
+        "page": 1,
+        "version": "1.4"
+    }
+}
